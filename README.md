@@ -2,6 +2,8 @@
 
 ## Description
 Prise de courant connectée contrôlable par carte et badge RFID et à distance.
+![PriseRFID exterieur](/images/DSC09148.JPG)
+![PriseRFID interieur](/images/DSC09146.JPG)
 
 ## Fonctions
 * Alimenter la prise en fonction des autorisations
