@@ -34,7 +34,7 @@
 #define SS_PIN 5
 #define RST_PIN 4
 #define LED_VERT_PIN 16
-#define RELAY_PIN 10
+#define RELAY_PIN 2
  
 MFRC522 rfid(SS_PIN, RST_PIN); // Instance of the class
 
